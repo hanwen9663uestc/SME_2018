@@ -4,14 +4,14 @@
 
 成品展示：  
 
-![picture1]：picture/图片1.png
+![](https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E5%89%8D%E7%AB%AF%20%C2%B7%20%E5%9F%BA%E7%A1%80%E9%A2%98/picture/%E5%9B%BE%E7%89%871.png)
   
 ### 【赛题说明】
 &emsp;&emsp;本题涉及主要内容为web前端方面一个较为基础并且重要的三栏式布局的知识，完成的作品要与上图相同，可通过百度了解有关三栏式布局的知识。相关属性要求及说明见测评标准，其余要求见注意事项，符合条件完成者即可获得30分，否则即为0分。  
 
 ### 【测评标准】
 
-图片2  
+![](https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E5%89%8D%E7%AB%AF%20%C2%B7%20%E5%9F%BA%E7%A1%80%E9%A2%98/picture/%E5%9B%BE%E7%89%872.png) 
 
 ### 【注意事项】
 要求：  
@@ -24,7 +24,7 @@
 ### 【参考资料】
 1、	图书资料：  
 《零基础学Html+CSS》：  
-图片3  
+![](https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E5%89%8D%E7%AB%AF%20%C2%B7%20%E5%9F%BA%E7%A1%80%E9%A2%98/picture/%E5%9B%BE%E7%89%873.jpg)
 
 2、	在线学习资料：  
 http://www.w3school.com.cn/index.html  
