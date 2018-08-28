@@ -1,7 +1,7 @@
 <p align="center">
   <a href="http://CXCYGZF-UESTC.github.io">
     <img alt="创新创业工作坊" src="https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/picture/%E6%8A%AC%E5%A4%B4%E5%9B%BE%E7%89%871.png" 
-         width="900">
+         width="600">
   </a>
 </p>  
 
