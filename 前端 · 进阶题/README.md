@@ -5,33 +5,28 @@
 ### 【基础要求】
 目标: 复刻淘宝网首页第一屏部分(1920×1080)  
 要求: 只需完成静态部分，无需实现动态部分。简而言之，视觉效果如下截图即可。  
-图片1  
+![](https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E5%89%8D%E7%AB%AF%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/%E5%9B%BE%E4%B8%80.png)
 
 ### 【扩展要求】
 目标: 实现部分动态部分  
 要求:  
 1、实现”主题市场”下列表的光标悬停展示详情功能  
-
-
-
-图片2  
+![](https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E5%89%8D%E7%AB%AF%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/%E5%9B%BE%E4%BA%8C.png)
 
 2、 实现图片轮播功能
-
-图片3
+![](https://github.com/CXCYGZF-UESTC/SME_2018/blob/master/%E5%89%8D%E7%AB%AF%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/%E5%9B%BE%E4%B8%89.png)
 
 3、 实现光标悬停冒头功能
 
 光标未悬停:
-
-图片4  
+![](https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E5%89%8D%E7%AB%AF%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/%E5%9B%BE%E5%9B%9B.png)
 
 光标悬停:  
-图片5  
+![](https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E5%89%8D%E7%AB%AF%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/%E5%9B%BE%E4%BA%94.png)
 
 4、 其他隐藏式设计，例如：  
 
-图片6
+![](https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E5%89%8D%E7%AB%AF%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/%E5%9B%BE%E5%85%AD.png)
 
 5、 淘宝网首页上你能够实现的其他部分，根据效果和难度酌情评分  
 
@@ -54,9 +49,7 @@
 ### 【参考资料】
 1、	图书资料：  
 《零基础学Html+CSS》：  
-
-
-图片7  
+![](https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E5%89%8D%E7%AB%AF%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/%E5%9B%BE%E4%B8%83.jpg)
 
 2、	在线学习资料：  
 http://www.w3school.com.cn/  
