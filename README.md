@@ -1,14 +1,10 @@
 <p align="center">
   <a href="http://CXCYGZF-UESTC.github.io">
-    <img alt="创新创业工作坊" src="https://github.com/CXCYGZF-UESTC/SME_2018/blob/master/picture/%E6%8A%AC%E5%A4%B4%E5%9B%BE%E7%89%87.png" 
+    <img alt="创新创业工作坊" src="https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/picture/%E6%8A%AC%E5%A4%B4%E5%9B%BE%E7%89%871.png" 
          width="900">
   </a>
 </p>  
 
-<p align="center">
-  <img src="https://github.com/CXCYGZF-UESTC/SME_2018/blob/master/picture/%E6%A6%82%E8%A7%88%E5%9B%BE%E7%89%87.png"
-       width="900">
-</p>  
 
 ---
 
@@ -28,6 +24,12 @@
 8. 该比赛最终解释权归创新创业工作坊所有。  
 **PS: 本比赛和参与招新无关。**
 ## 【比赛题目详解】
+
+<p align="center">
+  <img src="https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/picture/%E6%A6%82%E8%A7%88%E5%9B%BE%E7%89%87.png"
+       width="600">
+</p>  
+
 &emsp;&emsp;**此次比赛一共分为两个大类：电子设计类和互联网解决方案类。每一个大类里又细分为两个方向：**  
 -  电子设计类：硬件方向和嵌入式方向；
 -  互联网解决方案：前端方向和数据科学方向。  
@@ -49,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/picture/%E4%BA%8C%E7%BB%B4%E7%A0%81%E6%80%BB%E5%9B%BE%E7%89%871.png"
+  <img src="https://github.com/CXCYGZF-UESTC/SME_2018/blob/master/picture/%E4%BA%8C%E7%BB%B4%E7%A0%81%E6%80%BB%E5%9B%BE%E7%89%872.png"
        width="640">  
 </p>
 
