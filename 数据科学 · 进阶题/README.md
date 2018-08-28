@@ -12,6 +12,14 @@
 1 | 安徽省 | Anhui | 13.97
 2 | 澳门特别行政区 | Macao | 0.00328
 &emsp;&emsp;由于每一局的相生相克规则是不一样的，所以我会在github上放置1例相生相克规则，例如：  
+<p align="center">
+ Shandong ==> Macao（山东 “生” 澳门）  <br />
+ Zhejiang ==> Hong_Kong（浙江 “生” 香港）<br />  
+ Gansu ==> Hong_Kong<br />  
+ Beijing ==> Hubei<br />  
+ Hong_Kong ==> Hunan<br />  
+ Tianjin ==> Jilin<br />  
+</p>  
 Shandong ==> Macao（山东 “生” 澳门）  
 Zhejiang ==> Hong_Kong（浙江 “生” 香港）  
 Gansu ==> Hong_Kong  
