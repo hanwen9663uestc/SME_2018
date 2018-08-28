@@ -39,7 +39,7 @@
 https://item.taobao.com/item.htm?id=20428448343  
 5. 卡尔曼滤波理解（仅作参考，可以使用其他滤波，反正最后是比谁精度高，那个效果好用哪个）  
 https://www.zhihu.com/question/23971601
-6. 视频教程  
+6. 视频教程  <br />
 腾讯课堂下载链接：https://ke.qq.com/course/279762?tuin=1730a331  
 腾讯课堂在线观看链接：https://ke.qq.com/course/278479  
 百度网盘下载链接：  
