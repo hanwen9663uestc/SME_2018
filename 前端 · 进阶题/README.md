@@ -12,16 +12,16 @@
 ### 【扩展要求】
 目标: 实现部分动态部分  
 要求:  
-#### 【实现”主题市场”下列表的光标悬停展示详情功能】  
+#### 1、实现”主题市场”下列表的光标悬停展示详情功能  
 ![](https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E5%89%8D%E7%AB%AF%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/%E5%9B%BE%E4%BA%8C.png)
 
-#### 【实现图片轮播功能】  
+#### 2、实现图片轮播功能  
 <p align="center">
  <img src="https://github.com/CXCYGZF-UESTC/SME_2018/blob/master/%E5%89%8D%E7%AB%AF%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/%E5%9B%BE%E4%B8%89.png">
 </p>  
 
 
-#### 【实现光标悬停冒头功能】
+#### 3、实现光标悬停冒头功能
 
 光标未悬停:  
 <p align="center">
@@ -29,15 +29,16 @@
 </p>  
 
 光标悬停:  
+<p align="center">
+ <img src="https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E5%89%8D%E7%AB%AF%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/%E5%9B%BE%E4%BA%94.png">
+</p>  
 
-![](https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E5%89%8D%E7%AB%AF%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/%E5%9B%BE%E4%BA%94.png)
-
-#### 【其他隐藏式设计，例如】  
+#### 4、其他隐藏式设计，例如  
 <p align="center">
  <img src="https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E5%89%8D%E7%AB%AF%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/%E5%9B%BE%E5%85%AD.png">
 </p>  
 
-#### 【淘宝网首页上你能够实现的其他部分，根据效果和难度酌情评分】  
+#### 5、淘宝网首页上你能够实现的其他部分，根据效果和难度酌情评分  
 <br />
   
 ### 【测评标准】
@@ -59,13 +60,13 @@
 <br />
   
 ### 【参考资料】
-#### 【图书资料】  
+#### 1、图书资料  
 《零基础学Html+CSS》：  
 <p align="center">
  <img src="https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E5%89%8D%E7%AB%AF%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/%E5%9B%BE%E4%B8%83.jpg">
 </p>  
   
-#### 【在线学习资料】  
+#### 2、在线学习资料  
 http://www.w3school.com.cn/  
 http://www.runoob.com/html/html-tutorial.html  
 https://www.imooc.com/  
