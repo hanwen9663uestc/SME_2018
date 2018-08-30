@@ -24,22 +24,22 @@
 <br />
   
 ### 【参考资料】
-1. 《STM32库开发实战指南》：
+#### 1. 《STM32库开发实战指南》：
 <p align="center">
  <img src="https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E5%B5%8C%E5%85%A5%E5%BC%8F%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/%E5%9B%BE%E4%B8%80.jpg">
 </p>  
   
-2. 《电子设计从零开始》：
+#### 2. 《电子设计从零开始》：
 <p align="center">
  <img src="https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E5%B5%8C%E5%85%A5%E5%BC%8F%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/%E5%9B%BE%E4%BA%8C.jpg">
 </p>  
   
-3. 涉及模块：数码管，按键，EEPROM
-4. STM32开发板（学习用的板子上面很多模块都有）  
+#### 3. 涉及模块：数码管，按键，EEPROM
+#### 4. STM32开发板（学习用的板子上面很多模块都有）  
 https://item.taobao.com/item.htm?id=20428448343  
-5. 卡尔曼滤波理解（仅作参考，可以使用其他滤波，反正最后是比谁精度高，那个效果好用哪个）  
+#### 5. 卡尔曼滤波理解（仅作参考，可以使用其他滤波，反正最后是比谁精度高，那个效果好用哪个）  
 https://www.zhihu.com/question/23971601
-6. 视频教程  <br />
+#### 6. 视频教程  <br />
 腾讯课堂下载链接：https://ke.qq.com/course/279762?tuin=1730a331  
 腾讯课堂在线观看链接：https://ke.qq.com/course/278479  
 百度网盘下载链接：  
