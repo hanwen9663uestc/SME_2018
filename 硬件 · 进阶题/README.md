@@ -1,7 +1,7 @@
-# 【硬件 · 进阶题：数显电子琴】
+## 【硬件 · 进阶题：数显电子琴】
 
 ---
-## 【设计任务】
+### 【设计任务】
 &emsp;&emsp;设计制作一个简易的电子琴装置，通过按键方式使发声器件发出音乐，简易示意图如图 1 所示。
 <p align="center">
  <img src="https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E7%A1%AC%E4%BB%B6%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/%E7%94%B5%E5%AD%90%E7%90%B4%E7%AE%80%E6%98%93%E7%A4%BA%E6%84%8F%E5%9B%BE.png">
