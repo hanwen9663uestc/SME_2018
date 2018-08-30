@@ -22,7 +22,7 @@
  Tianjin ==> Jilin<br />  
 </p>  
   
-&emsp;&emsp; **游戏流程：**  
+### 【游戏流程】
 &emsp;&emsp;游戏初始状态为空白的中国地图，游戏在机器人（蓝方）与参与本题的同学（红方）中展开，如图：
 <p align="center">
  <img src="https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/%E5%9B%BE%E4%B8%80.png">
