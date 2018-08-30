@@ -34,7 +34,7 @@
  <img src="https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E5%89%8D%E7%AB%AF%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/%E5%9B%BE%E4%BA%94.png">
 </p>  
 
-#### 4、其他隐藏式设计，例如  
+#### 4、其他隐藏式设计，例如：  
 <p align="center">
  <img src="https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E5%89%8D%E7%AB%AF%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/%E5%9B%BE%E5%85%AD.png">
 </p>  
