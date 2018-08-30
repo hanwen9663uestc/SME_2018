@@ -4,7 +4,7 @@
 ### 【赛题说明】
 &emsp;&emsp;在一片区域内有N个地点，每个地点有价值不同的物品，所有地点之间都有道路相连，且经过每条道路需要耗费相应的时间。现在给定时间T，要求在规定时间内收集物品，并使其总价值最大。其中出发点可以为所有地点中的任意一个，输出结果为物品的最大总价值及其所经过的路线（只需一条）。同时，若可在规定时间T内到达所有地点，则要求出耗时最短的路线，并输出所需的最短时间。例如：  
 <p align="center">
- <img src="https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E5%9F%BA%E7%A1%80%E9%A2%98/picture/%E5%9B%BE%E4%B8%80.png">
+ <img src="https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E5%9F%BA%E7%A1%80%E9%A2%98/picture/%E5%9B%BE%E4%B8%80.png" width="600">
 </p>  
   
 N=4，T=70，则从20经9到8，再经34到12，最后经15到4  
