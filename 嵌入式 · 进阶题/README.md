@@ -40,10 +40,10 @@ https://item.taobao.com/item.htm?id=20428448343
 #### 5. 卡尔曼滤波理解（仅作参考，可以使用其他滤波，反正最后是比谁精度高，那个效果好用哪个）  
 https://www.zhihu.com/question/23971601
 #### 6. 视频教程  <br />
-腾讯课堂下载链接：https://ke.qq.com/course/279762?tuin=1730a331  
-腾讯课堂在线观看链接：https://ke.qq.com/course/278479  
-百度网盘下载链接：  
-&emsp;&emsp;A盘独立压缩包: http://pan.baidu.com/s/1c2zdIJQ 程序源码，手册，软件等除视频外的所有其他资料  
-&emsp;&emsp;B盘独立压缩包: http://pan.baidu.com/s/1i5GwEqT 视频盘,《手把手教你学STM32-M3》视频  
-&emsp;&emsp;C盘独立压缩包：http://pan.baidu.com/s/1miPJYeW 视频盘,《手把手教你学STM32-M3》视频  
-&emsp;&emsp;D盘独立压缩包：http://pan.baidu.com/s/1i4UZ4Lf 视频盘,《手把手教你学STM32-M3》视频  
+- 腾讯课堂下载链接：https://ke.qq.com/course/279762?tuin=1730a331  
+- 腾讯课堂在线观看链接：https://ke.qq.com/course/278479  
+- 百度网盘下载链接：  
+  - A盘独立压缩包: http://pan.baidu.com/s/1c2zdIJQ 程序源码，手册，软件等除视频外的所有其他资料  
+  - B盘独立压缩包: http://pan.baidu.com/s/1i5GwEqT 视频盘,《手把手教你学STM32-M3》视频  
+  - C盘独立压缩包：http://pan.baidu.com/s/1miPJYeW 视频盘,《手把手教你学STM32-M3》视频  
+  - D盘独立压缩包：http://pan.baidu.com/s/1i4UZ4Lf 视频盘,《手把手教你学STM32-M3》视频  
