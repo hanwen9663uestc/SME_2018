@@ -44,10 +44,8 @@
 &emsp;&emsp; **·** 线上指导：比赛负责团队将会在比赛期中不定时/定时发布相关题目的指导信息。同时参赛者随时可以通过QQ等方式寻求指导意见。  
 &emsp;&emsp; **·** 线下指导：工作坊经常会有熟悉相关方向的大佬出没，欢迎大家常来工作坊。
   
-  
-  
-  
-  
+</br>
+</br>
   
 <p align="center">
   <img src="https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/picture/%E5%90%8D%E8%A8%80.png"
