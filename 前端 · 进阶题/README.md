@@ -10,8 +10,9 @@
 <br />
   
 ### 【扩展要求】
-目标: 实现部分动态部分  
-要求:  
+#### 目标: 
+实现部分动态部分  
+#### 要求:  
 #### 1、实现”主题市场”下列表的光标悬停展示详情功能  
 ![](https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E5%89%8D%E7%AB%AF%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/%E5%9B%BE%E4%BA%8C.png)
 
