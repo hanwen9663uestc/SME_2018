@@ -16,13 +16,32 @@ N=4，T=70，则从20经9到8，再经34到12，最后经15到4
 <br />
   
 ### 【测评标准】
-- 本题将会提供五幅图片作为求解对象，参赛选手需按照要求输出所有的正确答案。  
+- 本题将会提供五幅图片（图片如下）作为求解对象，参赛选手需按照要求输出所有的正确答案。  
   - 输出收集到的物品的最大总价值及其所经过的路线。  
   - 若可在规定时间T内到达所有地点，则要求出耗时最短的路线，并输出所需的最短时间。  
   - 输入方式以txt.文件输入，输入信息及格式自行决定，但需要添加说明。  
   - 输出结果格式以例题为标准，以txt.文件输出。  
 - 参赛选手需为自己的代码添加详细的注释，说明代码的步骤及功能。
-- 参赛选手书写一份100字至300字之间的解题思路，包括使用的算法等。    
+- 参赛选手书写一份100字至300字之间的解题思路，包括使用的算法等。  
+<p align="center">
+ <img src="https://github.com/hanwen9663uestc/SME_2018/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E5%9F%BA%E7%A1%80%E9%A2%98/picture/%E9%99%84%E4%BB%B61.png
+">
+</p>  
+<p align="center">
+ <img src="https://github.com/hanwen9663uestc/SME_2018/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E5%9F%BA%E7%A1%80%E9%A2%98/picture/%E9%99%84%E4%BB%B62.png
+">
+</p>  
+<p align="center">
+ <img src="https://github.com/hanwen9663uestc/SME_2018/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E5%9F%BA%E7%A1%80%E9%A2%98/picture/%E9%99%84%E4%BB%B63.png
+">
+</p>  
+<p align="center">
+ <img src="https://github.com/hanwen9663uestc/SME_2018/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E5%9F%BA%E7%A1%80%E9%A2%98/picture/%E9%99%84%E4%BB%B64.png">
+</p>  
+<p align="center">
+ <img src="https://github.com/hanwen9663uestc/SME_2018/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E5%9F%BA%E7%A1%80%E9%A2%98/picture/%E9%99%84%E4%BB%B65.png
+">
+</p>  
 <br />
   
 ### 【注意事项】  
