@@ -1,6 +1,6 @@
 ## 【数据 · 进阶题：攻城略地】
 这是一款使用程序自动抢占领地的游戏。  
-以下内容均为简介，详细题目请参阅([`网页`](https://vincentgaohj.github.io/web_preemption/preemption.html))，若本页题目与([`网页`](https://vincentgaohj.github.io/web_preemption/preemption.html))中有冲突，一切情况以([`网页`](https://vincentgaohj.github.io/web_preemption/preemption.html))内容为主。
+以下内容为本题题目内容详解，题目详情、教程、以及API接口文档请参阅由出题人自己维护的[`网页`](https://vincentgaohj.github.io/web_preemption/preemption.html)，并以其为准。（网页链接：https://vincentgaohj.github.io/web_preemption/preemption.html）
 
 ---
 
