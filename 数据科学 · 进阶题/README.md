@@ -33,7 +33,7 @@
   
 &emsp;&emsp;蓝方，也就是电脑先行占领城堡，假设它选择了**北京**，然而根据相生相克规则，**北京**又“生”**新疆**与**安徽**，那么战况如下：
 <p align="center">
- <img src="https://github.com/hanwen9663uestc/SME_2018/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/map_2.png" width="1200">
+ <img src="https://github.com/hanwen9663uestc/SME_2018/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/map_2.png">
 </p>  
   
 &emsp;&emsp;红方，也就是参赛选手选择了**宁夏**，根据相生相克规则，**宁夏**又“生”**海南**与**新疆**，那么战况变更为如下：
@@ -88,6 +88,7 @@
 <p align="center">
  <img src="https://github.com/hanwen9663uestc/SME_2018/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/C%E8%AF%AD%E8%A8%80.jpg">
 </p>
+  
 #### 2、Python
 <p align="center">
  <img src="https://github.com/hanwen9663uestc/SME_2018/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/python.jpg">
