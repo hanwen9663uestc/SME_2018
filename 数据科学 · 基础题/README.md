@@ -27,18 +27,22 @@ N=4，T=70，则从20经9到8，再经34到12，最后经15到4
 <p align="center">
  <img src="https://github.com/hanwen9663uestc/SME_2018/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E5%9F%BA%E7%A1%80%E9%A2%98/picture/%E9%99%84%E4%BB%B61.png">
 </p>  
-#### 图二：T=70
+
+#### 图二：T=70  
 <p align="center">
  <img src="https://github.com/hanwen9663uestc/SME_2018/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E5%9F%BA%E7%A1%80%E9%A2%98/picture/%E9%99%84%E4%BB%B62.png">
 </p>  
+  
 #### 图三：T=90
 <p align="center">
  <img src="https://github.com/hanwen9663uestc/SME_2018/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E5%9F%BA%E7%A1%80%E9%A2%98/picture/%E9%99%84%E4%BB%B63.png">
 </p>  
+  
 #### 图四：T=70
 <p align="center">
  <img src="https://github.com/hanwen9663uestc/SME_2018/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E5%9F%BA%E7%A1%80%E9%A2%98/picture/%E9%99%84%E4%BB%B64.png">
 </p>  
+  
 #### 图五：T=100
 <p align="center">
  <img src="https://github.com/hanwen9663uestc/SME_2018/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E5%9F%BA%E7%A1%80%E9%A2%98/picture/%E9%99%84%E4%BB%B65.png">
