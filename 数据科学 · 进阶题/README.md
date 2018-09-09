@@ -1,6 +1,6 @@
 ## 【数据 · 进阶题：攻城略地】
 这是一款使用程序自动抢占领地的游戏。  
-以下内容均为简介，详细题目请参阅高浩峻自制网页，一切实际情况以自制网页内容为主。([`点击此处进入网页`](https://vincentgaohj.github.io/web_preemption/preemption.html))
+以下内容均为简介，详细题目请参阅([`网页`](https://vincentgaohj.github.io/web_preemption/preemption.html))，一切实际情况以([`网页`](https://vincentgaohj.github.io/web_preemption/preemption.html))内容为主。
 
 ---
 
@@ -84,15 +84,15 @@
 <br />  
   
 ### 【教程指导】
-#### 1、C语言  
-<p align="center">
- <img src="https://github.com/hanwen9663uestc/SME_2018/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/C%E8%AF%AD%E8%A8%80.jpg">
-</p>
-  
-#### 2、Python
+#### 1、Python
 <p align="center">
  <img src="https://github.com/hanwen9663uestc/SME_2018/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/python.jpg">
-</p>
+</p>  
+  
+#### 2、C语言  
+<p align="center">
+ <img src="https://github.com/hanwen9663uestc/SME_2018/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/C%E8%AF%AD%E8%A8%80.jpg">
+</p>  
 <br />  
   
 ### 【参考资料】
