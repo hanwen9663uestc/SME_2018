@@ -28,22 +28,22 @@
 ### 【游戏流程】
 &emsp;&emsp;游戏初始状态为空白的中国地图，游戏在机器人（蓝方）与参与本题的同学（红方）中展开，如图：
 <p align="center">
- <img src="https://github.com/hanwen9663uestc/SME_2018/blob/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/map_1.png">
+ <img src="https://github.com/hanwen9663uestc/SME_2018/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/map_1.png">
 </p>  
   
 &emsp;&emsp;蓝方，也就是电脑先行占领城堡，假设它选择了**北京**，然而根据相生相克规则，**北京**又“生”**新疆**与**安徽**，那么战况如下：
 <p align="center">
- <img src="https://github.com/hanwen9663uestc/SME_2018/blob/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/map_2.png" width="1200">
+ <img src="https://github.com/hanwen9663uestc/SME_2018/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/map_2.png" width="1200">
 </p>  
   
 &emsp;&emsp;红方，也就是参赛选手选择了**宁夏**，根据相生相克规则，**宁夏**又“生”**海南**与**新疆**，那么战况变更为如下：
 <p align="center">
- <img src="https://github.com/hanwen9663uestc/SME_2018/blob/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/map_3.png">
+ <img src="https://github.com/hanwen9663uestc/SME_2018/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/map_3.png">
 </p>  
   
 &emsp;&emsp;当所有城堡均被占领后，游戏结束，最终如下：
 <p align="center">
- <img src="https://github.com/hanwen9663uestc/SME_2018/blob/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/map_4.png">
+ <img src="https://github.com/hanwen9663uestc/SME_2018/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/map_4.png">
 </p>  
   
 &emsp;&emsp;此时进入清算环节，注意，比赛比的是哪方占领的城堡对应的领地总大小，而不是城堡数量。
